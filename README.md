@@ -1,7 +1,7 @@
-ReactProject
+Progress Bar Component
 =====================
 
-Demo application 
+Progress Bar Component Demonstration using React.JS 
 
 ### Usage
 
@@ -17,3 +17,6 @@ open http://localhost:3000
 * [webpack-dev-server](https://github.com/webpack/webpack-dev-server)
 * [babel-loader](https://github.com/babel/babel-loader)
 * [react-hot-loader](https://github.com/gaearon/react-hot-loader)
+
+### Contributer
+> - <a href="mailto:pranabkumar.mishra1@gmail.com">Pranab Kumar Mishra</a>
